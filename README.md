@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Figuereo Lorenzo</h1>
-<h3 align="center">A passionate backend developer from DR, i am passionate about the world of software development, the possibility of contributing to new and better solutions to different aspects of industries. Standing Primarily for Back-End Development.</h3>
+<h3 align="center">A passionate backend developer from DR, i am passionate about the world of software development, the possibility of contributing to new and better solutions to different aspects of industries. Standing Primarily for Back-End Development. I'm nuts about creating new things</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersxn2904" alt="andersxn2904" /></a> </p>
 
