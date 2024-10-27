@@ -1,21 +1,53 @@
 <h1 align="center">Hi 👋, I'm Anderson Figuereo Lorenzo</h1>
-<h3 align="center">A passionate backend developer from DR, i am passionate about the world of software development, the possibility of contributing to new and better solutions to different aspects of industries. Standing Primarily for Back-End Development. I'm nuts about creating new things</h3>
+<h3 align="center">A passionate backend developer from the Dominican Republic. I love the world of software development and am always eager to create impactful solutions for diverse industries, specializing in backend development and architectural design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersxn2904" alt="andersxn2904" /></a> </p>
-
-- 🌱 I’m currently learning **Microservices architecture.**
-
-- 💬 Ask me about **.NET FRAMEWORK**
-
-- 📫 How to reach me **figuereoanderson@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andersonfiguereo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andersonfiguereo/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andersxn2904" alt="GitHub Profile Trophy for andersxn2904" />
 </p>
 
+### 💼 Featured Projects:
+
+- **Social Media Application**: Worked on a full-featured social media platform with user interactions, live updates, and a sleek UI. Here's a preview of the application:
+  <br>
+  <img src="https://github.com/Dariana97/DanderiNetwork/assets/87196805/afd25a17-d6c3-43b6-92d2-6d5534e2d939" width="400" height="250"/>
+  <img src="https://github.com/Dariana97/DanderiNetwork/assets/142941034/84742c8b-6d0b-4415-ad74-f2101dbee43c" alt="Social Media App Screenshot 2" width="400" height="250"/>
+
+- **Project Management API**: Developed a robust backend API for project management, built with .NET, enabling task tracking, team collaboration, and resource management for efficient project workflows.
+
+### 🌱 Currently Learning:
+- **Microservices Architecture** for scalable backend systems
+
+### 💬 Ask Me About:
+- **.NET Framework**
+- **Best practices in backend architecture**
+
+### 📫 How to Reach Me:
+- **Email**: figuereoanderson@hotmail.com
+- **LinkedIn**: [Anderson Figuereo](https://www.linkedin.com/in/andersonfiguereo/)
+
+---
+
+### 🛠️ Technical Skills:
+- **Languages**: Advanced in **C#**; **Python** for data analysis and test automation
+- **Frameworks & Tools**: .NET Framework, Firebase, Docker, Selenium, Microsoft Power BI
+- **Databases**: SQL Server, MySQL, Firebase
+- **Architecture**: Microservices, Software Architecture Patterns
+- **Agile Methodologies**: SCRUM
+- **Version Control**: Git, GitHub, GitLab
+- **Project Management**: Jira
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> 
+</p>
+
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersxn2904&show_icons=true&locale=en" alt="andersxn2904" /></p>
-
